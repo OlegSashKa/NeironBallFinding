@@ -1,0 +1,9 @@
+
+path: D:\VS_cod\Python\Neironka\TrainBall # dataset root dir
+train: image3\train  # train images (relative to 'path')
+val: image3\test # val images (relative to 'path')
+
+# Classes
+names:
+  0: redball
+
